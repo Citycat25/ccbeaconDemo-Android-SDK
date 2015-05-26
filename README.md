@@ -2,4 +2,5 @@
 ccbeacon library API document
 
 android studio : cc-beacon-library.aar
+
 eclipse : cc-beacon-library.jar
